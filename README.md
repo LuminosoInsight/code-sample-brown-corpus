@@ -2,7 +2,7 @@
 
 The Brown Corpus contains approximately a million words of English text, tagged with symbols indicating their parts of speech. You can download a copy of it at http://nltk.googlecode.com/svn/trunk/nltk_data/packages/corpora/brown.zip (though do not feel obligated to use any other part of NLTK in your solution).
 
-Your task is to write a program that determines which nouns in this corpus appear particularly often in the plural form relative to the singular form. Write the results to a file, including whatever information and using whatever format seems best. Choose a reasonable criter ion to determine which words to output.
+Your task is to write a program that determines which nouns in this corpus appear particularly often in the plural form relative to the singular form. Write the results to a file, including whatever information and using whatever format seems best. Choose a reasonable criterion to determine which words to output.
 
 Document your design and your decisions (in comments and/or a readme file), including how to run your program. Explain any problems or errors in your results, and how they could be fixed.
 
