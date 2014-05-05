@@ -1,4 +1,4 @@
-## singular and plural nouns: a coding challenge
+## Singular and plural nouns: a coding challenge
 
 The Brown Corpus contains approximately a million words of English text, tagged with symbols indicating their parts of speech. You can [download the corpus here](http://nltk.googlecode.com/svn/trunk/nltk_data/packages/corpora/brown.zip).
 
