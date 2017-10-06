@@ -1,6 +1,6 @@
 ## Singular and plural nouns: a coding challenge
 
-The Brown Corpus contains approximately a million words of English text, tagged with symbols indicating their parts of speech. You can [download the corpus here](http://nltk.googlecode.com/svn/trunk/nltk_data/packages/corpora/brown.zip).
+The Brown Corpus contains approximately a million words of English text, tagged with symbols indicating their parts of speech. You can [download the corpus here](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/brown.zip).
 
 Your task is to write a program that determines which nouns in this corpus appear particularly often in the plural form relative to the singular form. Write the results to a file, including whatever information and using whatever format seems best. Choose a reasonable criterion to determine which words to output.
 
